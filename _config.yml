@@ -22,10 +22,10 @@ repository               : "NikhilRout/NikhilRout.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_banana.png"
   name             : "Nikhil Rout"
   pronouns         : # example: "she/her"  
-  bio              : "Research Intern @ Vortex GPGPU"
+  bio              : "Research Intern, Vortex GPGPU"
   location         : "Hyderabad, IND"
   employer         : "VIT Chennai"
   uri              : # URL
