@@ -14,4 +14,4 @@ I've also been working on developing a Tensor Core Unit (TCU) extension for the 
 My research interests lie in Computer Architecture, GPGPUs and Deep Learning Accelerators at the Microarchitecture abstraction level.
 
 ## News
-- [Oct 2025] I will be presenting my TCU Fused Dot Product (FEDP) Microarchitecture paper at the Vortex Workshop 2025 in conjunction with MICRO'58
+- [Oct 2025] I will be presenting my TCU Fused Dot Product (FEDP) unit Microarchitecture paper at the Vortex Workshop 2025 in conjunction with MICRO'58

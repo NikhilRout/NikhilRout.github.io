@@ -1,0 +1,9 @@
+---
+title: 'CompArch Research Group Database'
+date: 2025-10-03
+permalink: /posts/cargd/
+tags:
+  - resources
+---
+
+This [Notion database](https://plant-venus-5d7.notion.site/14d5dbc17d1080f99f34e971449e8625?v=5605ab653fa149ba9d3e367e49028c94&pvs=143) is a compilation of computer architecture research groups from around the world, sortable by university affiliation and research sub-domains. If you'd like to contribute towards additions, corrections, or updates, please feel free to reach out via [email](mailto:nikhilrout97@gmail.com).
