@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Nikhil Rout"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Research Intern @ Vortex GPGPU"
+  bio              : "Research Intern @ Vortex GPGPU"
   location         : "Hyderabad, IND"
-  employer         : "Vellore Institute of Technology, Chennai"
+  employer         : "VIT Chennai"
   uri              : # URL
   email            : "nikhilrout97@gmail.com" 
 
@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=srBwyToAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0000-2735-5491"
+  orcid            : # "https://orcid.org/0009-0000-2735-5491"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : nikhilrout97
+  twitter          : #nikhilrout97
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
