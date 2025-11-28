@@ -13,4 +13,4 @@ My research interests lie in Computer Architecture, GPGPUs and Deep Learning Acc
 
 ## News
 
-- **[Oct 2025]** Presented my TCU Fused Dot Product (FEDP) unit Microarchitecture paper at the Vortex Workshop, MICRO 2025 — [Slides](https://nikhilrout.github.io/files/Vortex TCU - FEDP Microarchitecture @ MICRO 2025.pdf) [Paper](https://nikhilrout.github.io/files/VortexWorkshopMICRO2025_FEDPv7.pdf)
+- **[Oct 2025]** Presented my TCU Fused Dot Product (FEDP) unit Microarchitecture paper at the Vortex Workshop and Tutorials, MICRO 2025 — [Paper](https://nikhilrout.github.io/files/VortexWorkshopMICRO2025_FEDPv7.pdf) [Slides](https://nikhilrout.github.io/files/Vortex TCU - FEDP Microarchitecture @ MICRO 2025.pdf) [Pic](https://nikhilrout.github.io/images/VortexWorkshopMICRO2025.png)
