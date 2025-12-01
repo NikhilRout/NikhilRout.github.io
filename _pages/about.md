@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working on a Tensor Core Unit (TCU) extension for the open-source RISC-V based [Vortex GPGPU](https://vortex.cc.gatech.edu/) at the ORCAS Lab, UCLA, advised by Prof. Blaise Tine.
+I'm currently working on a Tensor Core Unit (TCU) extension for the open-source RISC-V based [Vortex GPGPU](https://vortex.cc.gatech.edu/) at the ORCAS Lab, UCLA, advised by [Prof. Blaise Tine](https://blaisetine.github.io/).
 
 My research interests lie in Computer Architecture, GPGPUs and Deep Learning Accelerators at the microarchitecture abstraction.
 
