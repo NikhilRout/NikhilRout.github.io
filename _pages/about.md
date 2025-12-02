@@ -13,5 +13,5 @@ My research interests lie in Computer Architecture, GPGPUs and Deep Learning Acc
 
 ## News
 
-- **[Nov 2025]** My workshop paper *A Configurable Mixed-Precision Fused Dot Product Unit for GPGPU Tensor Computation* is now up on [arXiv](https://arxiv.org/abs/2512.00053)!
-- **[Oct 2025]** Presented my TCU Fused Dot Product (FEDP) unit Microarchitecture at the Vortex Workshop and Tutorials, MICRO 2025 — [Paper](https://nikhilrout.github.io/files/VortexWorkshopMICRO2025_FEDPv7.pdf) [Slides](https://nikhilrout.github.io/files/Vortex TCU - FEDP Microarchitecture @ MICRO 2025.pdf) [Pic](https://nikhilrout.github.io/images/VortexWorkshopMICRO2025.png)
+- **[Nov 2025]** My workshop paper *"A Configurable Mixed-Precision Fused Dot Product Unit for GPGPU Tensor Computation"* is now up on [arXiv](https://arxiv.org/abs/2512.00053)!
+- **[Oct 2025]** Presented my TCU Fused Dot Product (FEDP) unit Microarchitecture at the Vortex Workshop and Tutorials, MICRO 2025 — [Slides](https://nikhilrout.github.io/files/Vortex TCU - FEDP Microarchitecture @ MICRO 2025.pdf) [Pic](https://nikhilrout.github.io/images/VortexWorkshopMICRO2025.png)
