@@ -13,6 +13,6 @@ My research interests lie in Computer Architecture, GPGPUs and Deep Learning Acc
 
 ## News
 
-- **[Feb 2026]** I'm going to be presenting "Accelerating AI on RISC-V with the Vortex GPGPU Tensor Core Extension" as part of the 2026 RISC-V Technical Sessions on Feb 26 [Brief Summary](https://nikhilrout.github.io/posts/2026-02-05-rvtstcu)  
+- **[Feb 2026]** I'm going to be presenting *"Accelerating AI on RISC-V with the Vortex GPGPU Tensor Core Extension"* as part of the 2026 RISC-V Technical Sessions on Feb 26 [Brief](https://nikhilrout.github.io/posts/2026-02-05-rvtstcu)  
 - **[Nov 2025]** My workshop paper *"A Configurable Mixed-Precision Fused Dot Product Unit for GPGPU Tensor Computation"* is now up on [arXiv](https://arxiv.org/abs/2512.00053)!
 - **[Oct 2025]** Presented my TCU Fused Dot Product (FEDP) Unit Microarchitecture at the Vortex Workshop and Tutorials, MICRO 2025 [Slides](https://nikhilrout.github.io/files/Vortex TCU - FEDP Microarchitecture @ MICRO 2025.pdf) [Pic](https://nikhilrout.github.io/images/VortexWorkshopMICRO2025.png)
