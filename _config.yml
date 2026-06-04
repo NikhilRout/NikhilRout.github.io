@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Intern, Vortex GPGPU"
   location         : "Hyderabad, IND"
-  employer         : "VIT Chennai"
+  employer         : "UCLA"
   uri              : # URL
   email            : "nikhilrout97@gmail.com" 
 
@@ -62,6 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
+  twitter          : nikhilrout97
   linkedin         : nikhil-rout
   mastodon         : # URL
   medium           : # URL
@@ -70,7 +71,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : nikhilrout97
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -80,10 +80,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  workshops:
-    title: 'Workshop Papers'
   conferences:
     title: 'Conference Papers'
+  workshops:
+    title: 'Workshop Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working on a Tensor Core Unit extension to the open-source RISC-V based [Vortex GPGPU](https://vortex.cc.gatech.edu/) at the ORCAS Lab, UCLA, advised by [Prof. Blaise Tine](https://blaisetine.github.io/)
+I'm currently a Visiting Research Assistant at UCLA, working on a Tensor Core Unit extension to the open-source RISC-V based [Vortex GPGPU](https://vortex.cc.gatech.edu/), advised by [Prof. Blaise Tine](https://blaisetine.github.io/)
 
 My research interests lie in making GPUs go Brrr (efficiently)
 
 ## News
 
-- **[Apr 2026]** An early version of *"Ten-Four: An Open-Source Fused Dot Product Unit for Mixed-Precision GPGPU Tensor Cores"* is now up on [arXiv](https://arxiv.org/abs/2512.00053)!
-- **[Oct 2025]** Presented my TCU Fused Dot Product (FEDP) Unit Microarchitecture at the Vortex Workshop and Tutorials, MICRO 2025 [Slides](https://nikhilrout.github.io/files/Vortex TCU - FEDP Microarchitecture @ MICRO 2025.pdf) [Pic](https://nikhilrout.github.io/images/VortexWorkshopMICRO2025.png)
+
+- **[Jun 2026]** *"Ten-Four: An Open-Source Fused Dot Product Unit for Mixed-Precision GPGPU Tensor Cores"* is now up on [arXiv](https://arxiv.org/abs/2512.00053)!
+- **[May 2026]** I'm going to be volunteering at HotChips 2026, see you there!
+- **[May 2026]** Preliminary work on MX Tensor Cores *RoadBlock* accepted for poster presentation at OSCAR Workshop @ ISCA 2026
+- **[Oct 2025]** Presented *"Investigating Fused Dot Product Microarchitecture for the Vortex Tensor Core Unit Extension"* at the Vortex Workshop and Tutorials @ MICRO 2025 [Slides](https://docs.google.com/presentation/d/1prMvn3RhhSctkS-jnZpMe4X9C97iodyZniCEkRu5--g/edit?usp=sharing) [Pic](https://nikhilrout.github.io/images/VortexWorkshopMICRO2025.png)
