@@ -5,7 +5,7 @@ category: workshops
 permalink: /publication/2026-06-28-roadblock_oscar26/
 excerpt: #
 date: 2026-06-28
-venue: "Open-Source Computer Architecture Research (OSCAR) Workshop @ ISCA 2026"
+venue: "Workshop on Open-Source Computer Architecture Research (OSCAR) @ ISCA 2026"
 paperurl: 'https://nikhilrout.github.io/files/roadblock_oscar26.pdf'
 slidesurl: #
 ---

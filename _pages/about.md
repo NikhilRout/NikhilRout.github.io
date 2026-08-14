@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Visiting RA at UCLA working on a Tensor Core Unit extension to the open-source RISC-V based [Vortex GPGPU](https://vortex.cc.gatech.edu/), advised by [Prof. Blaise Tine](https://blaisetine.github.io/)
+I'm currently a Visiting RA at UCLA working on a Tensor Core Unit extension to the open-source RISC-V based [Vortex GPGPU](https://vortexgpgpu.github.io/), advised by [Prof. Blaise Tine](https://blaisetine.github.io/)
 
-My research interests lie in making GPUs go Brrr efficiently!
+My research interests lie in making GPUs go Brrr (efficiently)
 
 ## News
 
