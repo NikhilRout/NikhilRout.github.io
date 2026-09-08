@@ -9,10 +9,11 @@ redirect_from:
 
 I'm currently a Visiting RA at UCLA working on a Tensor Core Unit extension to the open-source RISC-V based [Vortex GPGPU](https://vortexgpgpu.github.io/), advised by [Prof. Blaise Tine](https://blaisetine.github.io/)
 
-My research interests lie in making GPUs go Brrr (efficiently)
+My research interests lie in making GPUs go Brrrr (efficiently)
 
 ## News
 
+- **[Sep 2026]** My poster *"RoadBlock: Rethinking GPU Tensor Core Microarchitecture for Emerging Microscaling Format Support"* has been accepted for the ACM SRC @ PACT 2026! Publication coming soon + see you in Chicago!
 - **[Aug 2026]** I’m moving to Los Angeles for a six-month Visiting RAship at UCLA CS with Prof. Tine and the ORCAS Lab!
 - **[Jun 2026]** *"Ten-Four: An Open-Source Fused Dot Product Unit for Mixed-Precision GPGPU Tensor Cores"* is now up on [arXiv](https://arxiv.org/abs/2512.00053)!
 - **[May 2026]** I'm going to be volunteering at HotChips 2026, see you there!
