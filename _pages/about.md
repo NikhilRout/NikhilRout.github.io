@@ -13,8 +13,8 @@ My research interests lie in making GPUs go Brrrr (efficiently!)
 
 ## News
 
-- **[Sep 2026]** I'm also going to be presenting *"TinyVortex: Learning-Guided Kernel Scheduling for Configurable SIMT GPU Co-Design Space Exploration"* at the LACS Workshop @ PACT 2026! WIP [GitHub](https://github.com/NikhilRout/tinyvortex/tree/master) 
-- **[Sep 2026]** My poster *"RoadBlock: Rethinking GPU Tensor Core Microarchitecture for Emerging Microscaling Format Support"* has been accepted for the ACM SRC @ PACT 2026! Publication coming soon + see you in Chicago!
+- **[Oct 2026]** My poster *"RoadBlock: Rethinking GPU Tensor Core Microarchitecture for Emerging Microscaling Format Support"* won the ACM SRC @ PACT 2026 (Undergraduate Division)! [Slides](https://docs.google.com/presentation/d/1Q7qDwjPgIiw7_PF_cF7wBfj7qf_e6PMhYQY8jJwbtI8/edit?usp=sharing)
+- **[Oct 2026]** Presented *"TinyVortex: Learning-Guided Kernel Scheduling for Configurable SIMT GPU Co-Design Space Exploration"* at the LACS Workshop @ PACT 2026! [GitHub](https://github.com/NikhilRout/tinyvortex/tree/master) [Slides](https://docs.google.com/presentation/d/1chqBE2V-7vopxo-yvtaMjWKi4U8RkoGvKUXAY5khfP4/edit?usp=sharing)
 - **[Aug 2026]** I’m moving to Los Angeles for a six-month Visiting RAship at UCLA CS with Prof. Tine and the ORCAS Lab!
 - **[Jun 2026]** *"Ten-Four: An Open-Source Fused Dot Product Unit for Mixed-Precision GPGPU Tensor Cores"* is now up on [arXiv](https://arxiv.org/abs/2512.00053)!
 - **[May 2026]** I'm going to be volunteering at HotChips 2026, see you there!
