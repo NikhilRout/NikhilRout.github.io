@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-simturn/
 excerpt: #''
 date: 2026-11-13
-venue: 'Preprint.'
+venue: 'Preprint, Under review.'
 paperurl: 'https://arxiv.org/abs/2611.17827'
 ---
 
