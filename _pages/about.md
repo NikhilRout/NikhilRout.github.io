@@ -14,7 +14,7 @@ My research interests lie in making GPUs go Brrrr (efficiently!)
 ## News
 
 - **[Nov 2026]** *"SIMTurn: Lightweight Divergent Subgroup Scheduling for Intra-Warp Synchronization"* is now up on [arXiv](https://arxiv.org/abs/2611.17827)!
-- **[Oct 2026]** My poster *"RoadBlock: Rethinking GPU Tensor Core Microarchitecture for Emerging Microscaling Format Support"* won the **1<sup>st</sup>** ACM SRC @ PACT 2026 (Undergraduate Division)! [arXiv](https://arxiv.org/abs/2611.08526) [Slides](https://docs.google.com/presentation/d/1Q7qDwjPgIiw7_PF_cF7wBfj7qf_e6PMhYQY8jJwbtI8/edit?usp=sharing)
+- **[Oct 2026]** My poster *"RoadBlock: Rethinking GPU Tensor Core Microarchitecture for Emerging Microscaling Format Support"* placed 1<sup>st</sup> at the ACM SRC @ PACT 2026 (Undergraduate Division)! [arXiv](https://arxiv.org/abs/2611.08526) [Slides](https://docs.google.com/presentation/d/1Q7qDwjPgIiw7_PF_cF7wBfj7qf_e6PMhYQY8jJwbtI8/edit?usp=sharing)
 - **[Oct 2026]** Presented *"TinyVortex: Learning-Guided Kernel Scheduling for Configurable SIMT GPU Co-Design Space Exploration"* at the LACS Workshop @ PACT 2026! [GitHub](https://github.com/NikhilRout/tinyvortex/tree/master) [Slides](https://docs.google.com/presentation/d/1chqBE2V-7vopxo-yvtaMjWKi4U8RkoGvKUXAY5khfP4/edit?usp=sharing)
 - **[Aug 2026]** I’m moving to Los Angeles for a six-month Visiting RAship at UCLA CS with Prof. Tine and the ORCAS Lab!
 - **[Jun 2026]** *"Ten-Four: An Open-Source Fused Dot Product Unit for Mixed-Precision GPGPU Tensor Cores"* is now up on [arXiv](https://arxiv.org/abs/2512.00053)!
