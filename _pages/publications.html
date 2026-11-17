@@ -10,6 +10,10 @@ author_profile: true
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
+    {% comment %}Workshop papers are hidden from the publications tab for now.{% endcomment %}
+    {% if category[0] == "workshops" %}
+      {% continue %}
+    {% endif %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
