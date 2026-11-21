@@ -13,6 +13,7 @@ My research interests lie in making GPUs go Brrrr (efficiently!)
 
 ## News
 
+- **[Nov 2026]** *"FoldSim: Scaling Cycle-Exact RTL Simulation with Hierarchical Folding and Static Scheduling"* is now out on [arXiv](https://arxiv.org/abs/2611.26472)!
 - **[Nov 2026]** *"SIMTurn: Lightweight Divergent Subgroup Scheduling for Intra-Warp Synchronization"* is now up on [arXiv](https://arxiv.org/abs/2611.17827)!
 - **[Oct 2026]** My poster *"RoadBlock: Rethinking GPU Tensor Core Microarchitecture for Emerging Microscaling Format Support"* placed 1<sup>st</sup> at the ACM SRC @ PACT 2026 (Undergraduate Division)! [arXiv](https://arxiv.org/abs/2611.08526) [Slides](https://docs.google.com/presentation/d/1Q7qDwjPgIiw7_PF_cF7wBfj7qf_e6PMhYQY8jJwbtI8/edit?usp=sharing)
 - **[Oct 2026]** Presented *"TinyVortex: Learning-Guided Kernel Scheduling for Configurable SIMT GPU Co-Design Space Exploration"* at the LACS Workshop @ PACT 2026! [GitHub](https://github.com/NikhilRout/tinyvortex/tree/master) [Slides](https://docs.google.com/presentation/d/1chqBE2V-7vopxo-yvtaMjWKi4U8RkoGvKUXAY5khfP4/edit?usp=sharing)
